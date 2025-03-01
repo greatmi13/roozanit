@@ -1,16 +1,16 @@
 # roozanit
 Roozanit - A platform providing essential information and resources for users
-# Roozanit
+# روژانیت
 
-Welcome to the Roozanit repository!
+به مخزن روژانیت خوش آمدید!
 
-Here you'll find the latest content on various topics such as:
+در اینجا می‌توانید آخرین محتوای مربوط به موضوعات مختلف را پیدا کنید:
 
-- [**Tech News**](https://roozanit.ir) (اخبار تکنولوژی)
-- [**Gaming and Entertainment News**](https://roozanit.ir) (اخبار بازی و سرگرمی)
-- [**Book Recommendations**](https://roozanit.ir) (معرفی کتاب)
-- [**Film and Series News**](https://roozanit.ir) (اخبار فیلم و سریال)
+- [**اخبار تکنولوژی**](https://roozanit.ir)
+- [**اخبار بازی و سرگرمی**](https://roozanit.ir)
+- [**معرفی کتاب**](https://roozanit.ir)
+- [**اخبار فیلم و سریال**](https://roozanit.ir)
 
-Stay updated with the latest articles, reviews, and guides.
+با ما همراه باشید و از آخرین مقالات، نقدها و راهنماها بهره‌مند شوید.
 
-Visit our [website](https://roozanit.ir) for more information.
+برای اطلاعات بیشتر به [وب‌سایت ما](https://roozanit.ir) مراجعه کنید.
